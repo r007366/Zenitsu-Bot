@@ -10,15 +10,15 @@ global.antitags = true
 //global.autoTyping = false //auto tying in gc (true to on, false to off)
 //global.autoRecord = true //auto recording (true to on, false to off)
 
-global.Owner = ['918348225320'] //ur number 
-global.OwnerNumber = ['918348225320']
-global.ownertag = ['918348225320']
-global.BotName = "ZenitsuBot" //ur bot name 
-global.packname = "ZenitsuBot"
-global.author = "🦄Dream Guy Deepak" //ur sticker pack name 
-global.OwnerName = "🦄Dream Guy Deepak" //ur name
-global.BotSourceCode = "https://youtube.com/@dreamguydeepak" //ur website link
-global.SupportGroupLink = "https://chat.whatsapp.com/KguOo9XsRTW2iESYuHzVX1" //ur group link 
+global.Owner = ['6285591339086'] //ur number 
+global.OwnerNumber = ['6285591339086']
+global.ownertag = ['6285591339086']
+global.BotName = "FrankBot" //ur bot name 
+global.packname = "FrnknstnBot"
+global.author = "🦄@frnknstn0" //ur sticker pack name 
+global.OwnerName = "🦄Frankenstein" //ur name
+global.BotSourceCode = "https://instagram.com/frnknstn0" //ur website link
+global.SupportGroupLink = "COMING SOON" //ur group link 
 global.sessionName = "session"
 
 // Prefix //
@@ -26,12 +26,12 @@ global.sessionName = "session"
 global.prefa = ['.'] 
 
 
-global.location = "Darjeeling, India"
+global.location = "Jakarta Pusat, Indonesia"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://i.ibb.co/vXnjzpr/cheemspic.jpg' }
-global.websitex = "https://youtube.com/@dreamguydeepak"
-global.lolhuman = "Deepak"
+global.websitex = "https://instagram.com/frnknstn0"
+global.lolhuman = "Rngga"
 
 
 global.BotLogo = fs.readFileSync("./Assets/cheemspic.jpg")
@@ -65,10 +65,10 @@ global.mess = {
     useradmin: 'Sorry, only *Group Admins* can use this command *Dear*!',
     botadmin: 'Sorry, i cant execute this command without being an *Admin* of this group.',
     botowner: 'Only my *Owner* can use this command, Yeah!',
-    grouponly: 'This command is only made for *Groups*, Baka!',
+    grouponly: 'This command is only made for *Groups*',
     privateonly: 'This command is only made for *Private Chat*, Okey ?!',
     botonly: 'Only the *Bot itself* can use this command!',
-    waiting: ' Ruko Zara...',
+    waiting: ' Please Wait...',
     nolink: 'Please provide me *link*, Uff!',
     error: 'An error occurd!',
     banned: 'You are *Banned* fron using commands!, Haha',
